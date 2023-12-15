@@ -1,0 +1,18 @@
+{
+  "cssImports": {
+    "/Users/nikhilbhaladhare/Desktop/NextJS Websites/promptopia/app/layout.jsx": [
+      "/Users/nikhilbhaladhare/Desktop/NextJS Websites/promptopia/styles/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/nikhilbhaladhare/Desktop/NextJS Websites/promptopia/app/page": [
+      "/Users/nikhilbhaladhare/Desktop/NextJS Websites/promptopia/styles/globals.css"
+    ],
+    "/Users/nikhilbhaladhare/Desktop/NextJS Websites/promptopia/app/create-prompt/page": [
+      "/Users/nikhilbhaladhare/Desktop/NextJS Websites/promptopia/styles/globals.css"
+    ],
+    "/Users/nikhilbhaladhare/Desktop/NextJS Websites/promptopia/app/profile/page": [
+      "/Users/nikhilbhaladhare/Desktop/NextJS Websites/promptopia/styles/globals.css"
+    ]
+  }
+}
